@@ -25,7 +25,6 @@ Steps involved:
 ## Dataset
 The dataset used for this project is a **Customer Churn dataset** containing customer demographics, account information, and service usage details.
 
-Note: The dataset is not uploaded in this repository due to size constraints.
 
 ## How to Run the Project
 1. Clone the repository
